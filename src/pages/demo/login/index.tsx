@@ -127,7 +127,7 @@ export default () => {
       // 模拟登录请求
       await new Promise((resolve) => setTimeout(resolve, 1000));
       message.success('登录成功！');
-    } catch (error) {
+    } catch (_error) {
       message.error('登录失败，请重试');
     } finally {
       setLoading(false);

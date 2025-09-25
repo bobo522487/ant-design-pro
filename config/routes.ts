@@ -55,6 +55,11 @@ export default [
         path: '/demo/login',
         component: './demo/login',
       },
+      {
+        name: 'demo.dynamic-form',
+        path: '/demo/dynamic-form',
+        component: './demo/dynamic-form',
+      },
     ],
   },
   {

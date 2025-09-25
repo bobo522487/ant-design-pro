@@ -8,6 +8,7 @@ export default {
   'menu.register': 'Register',
   'menu.demo': 'Demo',
   'menu.demo.login': 'Login',
+  'menu.demo.dynamic-form': 'Dynamic Form',
   'menu.register-result': 'Register Result',
   'menu.dashboard': 'Dashboard',
   'menu.dashboard.analysis': 'Analysis',

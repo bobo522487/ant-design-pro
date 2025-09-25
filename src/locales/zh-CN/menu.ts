@@ -8,6 +8,7 @@ export default {
   'menu.register': '注册',
   'menu.demo': '演示',
   'menu.demo.login': '登录',
+  'menu.demo.dynamic-form': '动态表单',
   'menu.register-result': '注册结果',
   'menu.dashboard': 'Dashboard',
   'menu.dashboard.analysis': '分析页',
