@@ -107,6 +107,8 @@ export default defineConfig({
     antd: true,
     // default true, when it is true, will use `navigator.language` overwrite default
     baseNavigator: true,
+    // 只保留中文和英文
+    localeList: ['zh-CN', 'en-US'],
   },
   /**
    * @name antd 插件
